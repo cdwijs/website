@@ -13,7 +13,7 @@ There's also a forum for people running Linux Mint here:
 https://forums.linuxmint.com/
 
 ## The starting point
-* A PC with an empty SSD. This PC is called the TargetPC
+* A PC with an empty SSD. This PC is called the TargetPC. In this guide, a VM is used.
 * An empty memory stick. This needs to hold the 2.8GB .iso, so 4GB is enough.
 * A second PC running Windows or Linux. This PC is used to download the needed files, and to format the memory stick.
 
