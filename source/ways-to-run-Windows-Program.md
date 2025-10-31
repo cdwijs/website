@@ -2,6 +2,7 @@
 
 ## On windows (bare metal)
 Here the program runs on Windows (Native), directly on the hardware (Bare Metal)
+![](ways-to-run-Windows-Program-pictures/windows-program-on-windows.png)
 
 ### Advantages
 * This is supported by the maker of the Windows program, so the program will probably run correctly.
@@ -16,8 +17,10 @@ Here the program runs on Windows (Native), directly on the hardware (Bare Metal)
 * Older versions of Windows probably don't run on the latest hardware.
 * Windows 11 doesn't run on older hardware without a TPM 2 module, or without a compatible CPU.
 
-## On Windown (In a virtual machine)
-here the program runs on Windows (Native), while the PC runs virtualized on top of Linux.
+## On Windows (In a virtual machine)
+Here the program runs on Windows, while Windows runs in a virtual machine (VM) on top of Linux.
+![](ways-to-run-Windows-Program-pictures/windows-program-on-linux-mint-and-qemu.png)
+
 ### Advantages
 * This is supported by the maker of the Windows program, so the program will probably run correctly.
 * There are no changes in the enviroment, so the user doesn't need to get used to anything.
@@ -27,11 +30,12 @@ here the program runs on Windows (Native), while the PC runs virtualized on top 
 ### Disadvantages
 * Windows License required
 * The PC has to run two operating systems at the same time, so there's less CPU/RAM/SSD available for Windows and the program.
-* The program needs to have support for the Windows version that's being run.
-* * Windows has direct access to al hardware including the GPU. This enables full hardware acceleration.
+* Windows does not have direct access to the hardware, so possibly graphical acceleration does not work (as good).
 
 ## On Linux (In a compatibility layer)
-Here the program runs on a compatibility layer. All the facilities the program uses are translated into Linux equvalents. 
+Here the program runs on a compatibility layer. All the facilities the program uses are translated into Linux equvalents.
+![](ways-to-run-Windows-Program-pictures/windows-program-on-linux-mint-and-wine.png)
+
 ### Advantages
 * No Windows License required.
 * Everything below the Windows program is open source software.
@@ -46,7 +50,10 @@ Here the program runs on a compatibility layer. All the facilities the program u
 * The methos the program is started is changed, so the user has to learn this new method.
 
 
-## The Linux version on Linux
+## The Linux version of the program on Linux
+Some programs exist for multiple operating systems. In that case running the Linux version is the best solution.
+
+![](ways-to-run-Windows-Program-pictures/Linux-program-on-Linux.png)
 ### Advantages
 * This is supported by the maker of the program, so the program will probably run correctly.
 * Linux has direct access to al hardware including the GPU. This enables full hardware acceleration.
@@ -55,4 +62,5 @@ Here the program runs on a compatibility layer. All the facilities the program u
 ### Disadvantages
 * A lot of Windows programs are Windows-only, so it's not possible to run it directly run it on Linux.
 
-## An equivalent program with a Linux version.
+## An equivalent Linux program.
+Sometimes a Program exists that does the sa
