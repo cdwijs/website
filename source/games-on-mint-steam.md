@@ -103,3 +103,17 @@ Now the game compiles it's Vulkan shaders. Next the game just works.
 * press play.
 
 This game just works.
+
+## Full Manual Tower Defence
+* open steam
+* install Full Manual Tower Defence
+* press play.
+
+This game just works.
+
+## Holocure Save the Fans!
+* open steam
+* install Save the Fans!
+* press play.
+
+This game just works.
