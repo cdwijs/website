@@ -351,6 +351,20 @@ This game just works.
 
 This game just works.
 
+## Poppy playtime
+* open steam
+* install Poppy playtime
+* press play.
+
+This game just works.
+
+## Roxy Raccoons Pinball Panic
+* open steam
+* install Roxy Raccoons Pinball Panic
+* press play.
+
+This game just works.
+
 ## Stellar mess: The Princess Conundrum (Chapter 1)
 * open steam
 * install Stellar mess: The Princess Conundrum (Chapter 1)
