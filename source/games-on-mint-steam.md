@@ -107,6 +107,8 @@ This game just works
 Now the game compiles it's Vulkan shaders. Next the game just works.
 
 
+
+
 ## Cube Escape Paradox
 * open steam
 * install Cube Escape Paradox
@@ -232,12 +234,101 @@ This game just works.
 
 This game just works.
 
+## Jwing the next puzzle game
+* open steam
+* install Jwing the next puzzle game
+* press play.
+
+This game just works.
+
+## Kurura Survivors
+* open steam
+* install Kurura Survivors
+* press play.
+
+This game just works.
+
+## Magic Archery
+* open steam
+* install Magic Archery
+* press play.
+
+This game just works.
+
+
+## Mechwarrior Ledgens Online
+* open steam
+* install Mechwarrior Ledgens Online
+* press play.
+
+This game requires an extra account
+
+## Monster hunter world
+* open steam
+* install Monster hunter world
+* press play.
+
+This game just works.
+
+
 ## Mr.mine
 * open steam
 * install Mr.mine
 * press play.
 
 This game just works.
+
+## Openttd
+* open steam
+* install Openttd
+* press play.
+
+This game just works.
+
+
+## Stargunner
+* open steam
+* install Stargunner
+* press play.
+
+This game just works, but starts in a window
+
+
+## Steam engine simulator
+* open steam
+* install Steam engine simulator
+* press play.
+
+This game just works.
+
+## strongblade
+* open steam
+* install strongblade
+* press play.
+
+This game just works.
+
+## Stumble guys
+* open steam
+* install Stumble guys
+* press play.
+
+This game just works.
+
+## Super Raft Boat Classic
+* open steam
+* install Super Raft Boat Classic
+* press play.
+
+This game just works.
+
+## Terraria
+* open steam
+* install Terraria
+* press play.
+
+This game just works.
+
 
 ## Zombie Defence
 * open steam
@@ -304,6 +395,13 @@ This game just works, until the settings button is pressed. The game progress is
 
 This game yields a grey screen.
 
+## Core Keeper
+* open steam
+* install Core Keeper
+* press play.
+
+This game starts, but then gives the following error "Connection to the multiplayer backend was lost"
+
 ## Once Human
 * open steam
 * install Once Human
@@ -319,6 +417,12 @@ Now the game compiles it's shaders. Next it shos a splash crean, and claims to a
 
 This game copmplains about not finding the main executable.
 
+## Legend of numbers
+* open steam
+* install Legend of numbers
+* press play.
+
+This game does not start
 
 # copyright
 (c) Cedric de Wijs 2025
