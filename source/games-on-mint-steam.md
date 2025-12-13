@@ -344,6 +344,16 @@ This game just works.
 
 This game just works.
 
+## Palworld
+* open steam
+* install Palworld
+* press play.
+
+This game just works.
+
+## Pineapple on Pizza
+
+
 ## Puzzle Quest 3
 * open steam
 * install Puzzle Quest 3
