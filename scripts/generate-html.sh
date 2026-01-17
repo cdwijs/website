@@ -6,4 +6,10 @@
 #  do pandoc -f markdown -t html -s "$i" > "$i".html; 
 #done;
 
-pandoc -f markdown ../source/windows10-block-updates.md  > ../generated/windows10-block-updates.html
+# pandoc -f markdown ../source/windows10-block-updates.md  > ../generated/windows10-block-updates.html
+for i in ../source/*.md;
+    do pandoc -f markdown -t html -s "$i" > "$i".html;
+done
+mv ../source/*.html ../generated/
+cp -var ../source/*-pictures/ ../generated/
+
