@@ -2,11 +2,11 @@
 
 ## The problem
 
-I need a way to make a PC boot from an iso file.
+I would like to start (boot) my PC from an .iso file. Normally I would write that file to a CD or DVD, but my PC doesnt have a CD/DVD drive anymore.
 
 ## The solution
 
-A memory stick formatted by Ventoy can hold multiple .iso files. At boot time one of them can be choosen.
+Most PC's can start from a memory stick. Vensoy writes a special program at the beginning of the memory stick. That program can then be used to select a .iso file, and boot from it.
 
 ## The starting point
 
@@ -20,13 +20,31 @@ https://www.ventoy.net/en/index.html this links to https://sourceforge.net/proje
 * Download ventoy-1.1.07-windows.zip if the PC runs Windows
 
 ## The procedure
+### Download Ventoy using a Linux PC
+Download Ventoy from here:
+https://www.ventoy.net/en/index.html this links to https://sourceforge.net/projects/ventoy/files/ 
+* Download ventoy-1.1.07-linux.tar.gz
 
-### Format the memory stick with Ventoy.
-Warning: This will destroy all the information currently stored on the memory stick.
+### Start the Ventoy installer using a Linux PC
+* Extract ventoy-1.1.07-linux.tar.gz with this command
+```
+tar -xvf ventoy-1.1.07-linux.tar.gz
+```
+* Start the installer with this command:
+```
+cd Ventoy
+sudo VentoyGUI.x86_64
+```
 
-* On Linux, extract ventoy-1.1.07-linux.tar.gz
-* On Linux, run VentoyGUI.x86_64, and give it root permission. Choose the correct device. The field "Ventoy in device" is empty, meaning Ventoy has not yet been installed on the memory stick.
+### Download Ventoy using a Windows PC
+Download Ventoy from here:
+https://www.ventoy.net/en/index.html this links to https://sourceforge.net/projects/ventoy/files/ 
+* Download ventoy-1.1.07-windows.zip
 
+### Start the Ventoy installer using a Windows machine:
+
+### Install Ventoy on the memory stick
+* Choose the correct device. The field "Ventoy in device" is empty, meaning Ventoy has not yet been installed on the memory stick.
 ![](ventoy-pictures/ventoy-before-install.png)
 
 * Click "Install". Now ventoy will ask for confirmation

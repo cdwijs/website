@@ -8,7 +8,7 @@ Create a virtual machine on Linux Mint, and install a minimal version of Windows
 
 ## The starting point
 A default installation of Linux Mint.
-A ventoy memory stick. (See this manual)
+A ventoy memory stick. ( See this manual:[ventoy.md](ventoy.md) )
 
 ## The procedure
 

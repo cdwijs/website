@@ -1,20 +1,20 @@
 # Install linux Mint #
 
 ## The problem
-I want to run Linux Mint on my PC but it's ssd is empty.
+I want to run Linux Mint on my PC. Everything thatś currently on the SSD (or hard drive) can be deleted.
 
 ## The solution
 Install Linux Mint on the PC.
 
 ## Getting help
-Thered are a number of people who are willing to help you with the installation of Windows Mint. you can find them here: https://endof10.org/places/
-
 There's also a forum for people running Linux Mint here:
-https://forums.linuxmint.com/
+[linuxmint.com](https://forums.linuxmint.com/)
+
+There are a number of people who are willing to help with the installation of Windows Mint. you can find them here: [endof10.org](https://endof10.org/places/)
 
 ## The starting point
 * A PC with an empty SSD. This PC is called the TargetPC. In this guide, a VM is used.
-* A memory stick formatted with Ventoy. See ventoy.md for details.
+* A memory stick formatted with Ventoy. See [ventoy](ventoy.md.html) for details.
 
 ## The preparation
 ### Download Linux Mint
@@ -22,18 +22,19 @@ Download linuxmint-22.2-cinnamon-64bit.iso and sha256sum.txt from here: https://
 
 Place both files on the memory stick.
 
-Next re-plug the memory stick, and prov ethe iso has been written to the memory stick correctly with these commands:
-
+### Verify the memory stick
+Replug the memory stick into the PC, and enter the following commands:
 ```
 $ cd /run/media/cedric/Ventoy/
 Ventoy]$ sha256sum -c sha256sum.txt --ignore-missing
 linuxmint-22.2-cinnamon-64bit.iso: OK
 ```
+If the command states "OK", the memory stick can be used to install Linux.
 
 ## The procedure
 
 ### Boot targetPC from the memory stick
-Warning: Make sure only the SSD where Linux mint has to be installed are connected to the target PC. This prevents formatting and installing Linux mint on the wrong drive.
+Warning: Make sure only the SSD where Linux mint has to be installed is connected to the target PC. This prevents installing Linux mint on the wrong drive.
 
 Insert the memory stick in the target PC. Start the target PC. Press a special key on the keyboard repeatedly to enter the BIOS. On my PC this is the delete key. On other PC's this can be another key like F2 or F12. Next locate the boot order menu, and choose the USB stick
 
@@ -52,7 +53,7 @@ Next choose "Start Linux Mint"
 ![](install-linux-mint-pictures/start-linux-mint.png)
 
 ### Install Linux Mint
-Warning: Make sure only the memory stick containing Ventoy, and the SSD where Linux mint has to be installed are connected to the target PC. This prevents formatting and installing Linux mint on the wrong drive.
+Warning: Make sure only the memory stick containing Ventoy, and the SSD where Linux mint has to be installed are connected to the target PC. This prevents installing Linux mint on the wrong drive.
 
 After starting Linux Mint, double click "Install Linux Mint" to start the installation
 
@@ -92,7 +93,7 @@ Specify what timezone must be used and press continue. (In this guide, Amsterdam
 
 ![](install-linux-mint-pictures/linux-mint-install-timezone.png)
 
-Warning: Make sureyou remember your password. if you forget the password, you cannot access your PC.
+Warning: Make sureyou remember your password. if you forget the password, you cannot use your PC.
 
 Enter the computername, your name and the password. and press continue
 
