@@ -1,33 +1,64 @@
 # Steam games on Linux mint
 
 # Games that just work
-
 ## American truck Simulator demo
-* open steam
-* install American truck Simulator demo
-* press play.
-
-This game just works.
-
 ## Arrow A row
-* open steam
-* install Arrow A row
-* press play.
-
 ## Bioprototype
-* open steam
-* install Bioprototype
-* press play.
-
-This game just works, but the progress is not saved by steam, it's saved locally (where, and howto transfer that?)
-
 ## Bomber 95
-* open steam
-* install Bomber 95
-* press play.
+## Bomber grounds
+## Cat simulator
+## Cats
+## Cell to singularity reality reboot
+## Core Keeper
+## Crab Game
+## Creeper World 4 Demo
+## Crossout Wolfpack
+## Cube Escape Paradox
+## Dark Deception 
+## Dead Frontier 2
+## Deep Rock Galactic
+## Dota Underlords
+## Euro Truck Simulator 2 Demo
+## Full Manual Tower Defence
+## Gems of War
+## Goose Goose Duck
+## Gun Devil
+## Helldivers 2
+## Helltaker 
+## Holocure
+## Infinitode 2
+## Is this seat taken? Demo
+## Jwing the next puzzle game
+## Kurura Survivors
+## Magic Archery
+## Monster hunter world
+## Mr.mine
+## Openttd
+## Steam engine simulator
+## strongblade
+## Stumble guys
+## Super Raft Boat Classic
+## Terraria
+## Zombie Defence
+## Tiny Survivors
+## Palworld
+## Pineapple on Pizza
+## Puzzle Quest 3
+## Poppy playtime
+## Roxy Raccoons Pinball Panic
+## Space Mech Pilot
+## Stellar mess: The Princess Conundrum (Chapter 1)
+## Holocure Save the Fans!
+## Rift breaker
+## Star Conflict
+## Left 4 Dead
+## Upload Labs
+## War Robots
+## Warhammer Vermintide
 
-This game just works.
 
+
+# Games that require an extra account
 ## Bomber dudes
 * open steam
 * install Bomber dudes
@@ -35,124 +66,10 @@ This game just works.
 
 The game ask to login to steam, so it cannot be played.
 
-## Bomber grounds
-* open steam
-* install Bomber grounds
-* press play.
-
-This game just works.
-
 ## Bomb tag
-* open steam
-* install Bomb tag
-* press play.
-
 The game boots, but stops until an e-mail address is given.
 
-## Breadborn
-* open steam
-* install Breadborn
-* press play.
-
-This game works, but the mouse has the wrong position on the screen.
-
-## Cat simulator
-* open steam
-* install Cat simulator
-* press play.
-
-This game just works
-
-## Cats
-* open steam
-* install Cats
-* press play.
-
-This game just works
-
-## Cell to singularity reality reboot
-* open steam
-* install Cell to singularity reality reboot.
-* press play.
-
-This game just works
-
-## Core Keeper
-* open steam
-* install Core Keeper
-* press play.
-
-This game just works
-
-## Crab Game
-* open steam
-* install Crab Game
-* press play.
-
-This game just works.
-
-
-## Creeper World 4 Demo
-* open steam
-* install Creeper World 4 Demo
-* press play.
-
-This game just works
-
-## Crossout Wolfpack
-* open steam
-* install Crossout Wolfpack
-* press play.
-
-Now the game compiles it's Vulkan shaders. Next the game just works.
-
-
-## Cube Escape Paradox
-* open steam
-* install Cube Escape Paradox
-* press play.
-
-This game just works.
-
-## Dark Deception 
-* open steam
-* install Dark Deception
-* press play.
-
-This game just works.
-
-
-Dead Frontier 2
-
-## Deep Rock Galactic
-* open steam
-* install Deep Rock Galactic
-* press play.
-
-This game just works.
-
-## Dota Underlords
-* open steam
-* install Dota Underlords
-* press play.
-
-This game just works.
-
-
-
-## Enlisted
-* open steam
-* install Enlisted
-* press play.
-
-
-## Euro Truck Simulator 2 Demo
-* open steam
-* install Euro Truck Simulator 2 Demo
-* press play.
-
-This game just works.
-
+## Eve online
 
 ## Faaast Penguin
 * open steam
@@ -161,13 +78,6 @@ This game just works.
 
 This game works, but requires an extra registration.
 
-## Full Manual Tower Defence
-* open steam
-* install Full Manual Tower Defence
-* press play.
-
-This game just works.
-
 ## Galaxy Life
 * open steam
 * install Galaxy Life
@@ -175,120 +85,17 @@ This game just works.
 
 This game works, but requires an extra registration.
 
-
-## Gems of War
+## Mechwarrior Ledgens Online
 * open steam
-* install Gems of War
+* install Mechwarrior Ledgens Online
 * press play.
 
-This game just works.
+This game requires an extra account
 
-## Goose Goose Duck
-* open steam
-* install Goose Goose Duck
-* press play.
+## Warframe
+This game requires an extra account
 
-This game just works.
-
-## Gun Devil
-* open steam
-* install Gun Devil
-* press play.
-
-This game just works.
-
-## Helldivers 2
-* open steam
-* install Helldivers 2
-* press play.
-
-This game just works.
-
-## Helltaker 
-* open steam
-* install Helltaker 
-* press play.
-
-This game just works.
-
-## Holocure
-* open steam
-* install Holocure 
-* press play.
-
-This game just works.
-
-## Infinitode 2
-* open steam
-* install Infinitode 2
-* press play.
-
-This game just works.
-
-## Is this seat taken? Demo
-* open steam
-* install Is this seat taken? Demo
-* press play.
-
-This game just works.
-
-## Mr.mine
-* open steam
-* install Mr.mine
-* press play.
-
-This game just works.
-
-## Zombie Defence
-* open steam
-* install Zombie Defence
-* press play.
-
-This game just works.
-
-## Tiny Survivors
-* open steam
-* install Tiny Survivors
-* press play.
-
-This game just works.
-
-## Puzzle Quest 3
-* open steam
-* install Puzzle Quest 3
-* press play.
-
-This game just works.
-
-## Stellar mess: The Princess Conundrum (Chapter 1)
-* open steam
-* install Stellar mess: The Princess Conundrum (Chapter 1)
-* press play.
-
-This game just works.
-
-## Holocure Save the Fans!
-* open steam
-* install Save the Fans!
-* press play.
-
-This game just works.
-
-## Rift breaker
-* open steam
-* install Rift breaker
-* press play.
-
-This game just works.
-
-## Left 4 Dead
-* open steam
-* install Left 4 Dead
-* press play.
-
-This game just works.
-
-# Games with little glitches
+# Games with glitches
 
 ## Battle for Blood - Epic battle within 30 seconds!
 * open steam
@@ -297,12 +104,27 @@ This game just works.
 
 This game just works, until the settings button is pressed. The game progress is not saved by steam, it's saved locally (where, and howto transfer that?)
 
+
+
+## Breadborn
+This game works, but the mouse has the wrong position on the screen.
+
 ## Chroma blast
 * open steam
 * install Chroma blast
 * press play.
 
 This game yields a grey screen.
+
+## Core Keeper
+* open steam
+* install Core Keeper
+* press play.
+
+This game starts, but then gives the following error "Connection to the multiplayer backend was lost"
+
+## Enlisted
+This game generates a fatal error.
 
 ## Once Human
 * open steam
@@ -318,6 +140,20 @@ Now the game compiles it's shaders. Next it shos a splash crean, and claims to a
 * press play.
 
 This game copmplains about not finding the main executable.
+
+## Legend of numbers
+* open steam
+* install Legend of numbers
+* press play.
+
+This game does not start
+
+## Stargunner
+* open steam
+* install Stargunner
+* press play.
+
+This game just works, but starts in a window
 
 
 # copyright
