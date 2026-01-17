@@ -2,63 +2,104 @@
 
 # Games that just work
 ## American truck Simulator demo
+## Apex ledgens?
 ## Arrow A row
+## Asphalt Legends
+## Audiomech demo
 ## Bioprototype
+## BloodStrike?
 ## Bomber 95
-## Bomber grounds
+## Bombergrounds: reborn
+## Bongo Cat
+## Brawlwhalla
+## Breadborn
+## Brighter Shores
 ## Cat simulator
 ## Cats
 ## Cell to singularity reality reboot
-## Core Keeper
+## Counter Strike 2?
 ## Crab Game
 ## Creeper World 4 Demo
 ## Crossout Wolfpack
 ## Cube Escape Paradox
-## Dark Deception 
+## Dark Deception
+## DCS World steam edition
+## DDrace Network
+## Dead as Disco Demo
 ## Dead Frontier 2
 ## Deep Rock Galactic
+## Delta Force?
+## Destiny 2?
+## Destroy All Humans! Clone Carnage
 ## Dota Underlords
+## Dungeon Defenders II
+## Enlisted?
+## Eternal Return
 ## Euro Truck Simulator 2 Demo
+## Eve Online?
+## Everything is Crab Playtest
 ## Full Manual Tower Defence
 ## Gems of War
 ## Goose Goose Duck
+## Grow defence
+## Guild Wars 2?
 ## Gun Devil
+## Gunforged Demo
 ## Helldivers 2
 ## Helltaker 
-## Holocure
+## Holocure Save the Fans!
+## Idle heroTD
 ## Infinitode 2
 ## Is this seat taken? Demo
 ## Jwing the next puzzle game
-## Kurura Survivors
+## Kurura Survivors: Endless Fight
+## Left 4 Dead
+## Left 4 Dead 2
 ## Magic Archery
+## Marvel Puzzle Quest
+## Marvel Rivals
 ## Monster hunter world
+## Monster Looter
 ## Mr.mine
+## Neon Beats
 ## Openttd
+## One armed robber
+## Palworld
+## Pineapple on Pizza
+## Poco
+## Poppy playtime
+## Puzzle Quest 3
+## Rift breaker
+## Roxy Raccoons Pinball Panic
+## Space Mech Pilot
 ## Steam engine simulator
-## strongblade
+## Stellar mess: The Princess Conundrum (Chapter 1)
+## Strongblade
 ## Stumble guys
 ## Super Raft Boat Classic
 ## Terraria
-## Zombie Defence
+## The Finals?
+## The Perfect Tower II
 ## Tiny Survivors
-## Palworld
-## Pineapple on Pizza
-## Puzzle Quest 3
-## Poppy playtime
-## Roxy Raccoons Pinball Panic
-## Space Mech Pilot
-## Stellar mess: The Princess Conundrum (Chapter 1)
-## Holocure Save the Fans!
-## Rift breaker
-## Star Conflict
-## Left 4 Dead
+## Transformice
 ## Upload Labs
-## War Robots
 ## Warhammer Vermintide
+## War Robots
+## Zaccaria Pinball
+## Zombie Defence
+
+
+
+
+
 
 
 
 # Games that require an extra account
+## Aimlabs
+
+## Battle Nations
+
 ## Bomber dudes
 * open steam
 * install Bomber dudes
@@ -68,6 +109,8 @@ The game ask to login to steam, so it cannot be played.
 
 ## Bomb tag
 The game boots, but stops until an e-mail address is given.
+
+## Bloons Battles 2
 
 ## Eve online
 
@@ -92,8 +135,20 @@ This game works, but requires an extra registration.
 
 This game requires an extra account
 
+## Star Conflict
+This game requires an extra account
+
 ## Warframe
 This game requires an extra account
+
+
+
+
+
+
+
+
+
 
 # Games with glitches
 
@@ -104,7 +159,8 @@ This game requires an extra account
 
 This game just works, until the settings button is pressed. The game progress is not saved by steam, it's saved locally (where, and howto transfer that?)
 
-
+## Bouncers
+This game shows the first frame of the intro, and then crashes
 
 ## Breadborn
 This game works, but the mouse has the wrong position on the screen.
@@ -154,6 +210,9 @@ This game does not start
 * press play.
 
 This game just works, but starts in a window
+
+## Tracmania Nations Forever
+This game doesn't start
 
 
 # copyright
