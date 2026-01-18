@@ -3,7 +3,6 @@
 # Games that just work
 ## American truck Simulator demo
 ## Antimatter Dimensions
-## Apex ledgens?
 ## Arena Breakout: Infinite
 ## Arrow A row
 ## Asphalt Legends
@@ -21,7 +20,8 @@
 ## Cat simulator
 ## Cats
 ## Cell to singularity reality reboot
-## Counter Strike 2?
+## Chicken invaders Universe
+## Counter Strike 2
 ## Crab Game
 ## Creeper World 4 Demo
 ## Crossout Wolfpack
@@ -76,7 +76,7 @@
 ## Rift breaker
 ## Roxy Raccoons Pinball Panic
 ## Space Mech Pilot
-## The Spell Brigade Demo?
+## The Spell Brigade Demo
 ## Steam engine simulator
 ## Stellar mess: The Princess Conundrum (Chapter 1)
 ## Strongblade
@@ -143,6 +143,9 @@ This game requires an extra account
 ## Star Conflict
 This game requires an extra account
 
+## Strinova?
+This game requires an extra account
+
 ## Warframe
 This game requires an extra account
 
@@ -156,6 +159,8 @@ This game requires an extra account
 
 
 # Games with glitches
+## Apex ledgends
+Crashes after a few seconds, stating Wine, Proton and Steam deck are not supported
 
 ## Battle for Blood - Epic battle within 30 seconds!
 * open steam
