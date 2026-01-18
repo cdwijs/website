@@ -2,12 +2,16 @@
 
 # Games that just work
 ## American truck Simulator demo
+## Antimatter Dimensions
 ## Apex ledgens?
+## Arena Breakout: Infinite
 ## Arrow A row
 ## Asphalt Legends
 ## Audiomech demo
 ## Bioprototype
+## Bitburner
 ## BloodStrike?
+## Bloody Hell
 ## Bomber 95
 ## Bombergrounds: reborn
 ## Bongo Cat
@@ -72,6 +76,7 @@
 ## Rift breaker
 ## Roxy Raccoons Pinball Panic
 ## Space Mech Pilot
+## The Spell Brigade Demo?
 ## Steam engine simulator
 ## Stellar mess: The Princess Conundrum (Chapter 1)
 ## Strongblade
