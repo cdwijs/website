@@ -15,6 +15,7 @@
 ## Bombergrounds: reborn
 ## Bongo Cat
 ## Brawlwhalla
+## The Braves?
 ## Breadborn
 ## Brighter Shores
 ## Cat simulator
@@ -25,6 +26,7 @@
 ## Crab Game
 ## Creeper World 4 Demo
 ## Crossout Wolfpack
+## Cloudtop Chaos
 ## Cube Escape Paradox
 ## Dark Deception
 ## DCS World steam edition
@@ -39,14 +41,19 @@
 ## Dungeon Defenders II
 ## Enlisted?
 ## Eternal Return
+## Eternium
 ## Euro Truck Simulator 2 Demo
 ## Eve Online?
 ## Everything is Crab Playtest
+## Farmer Against Potatoes Idle
 ## Full Manual Tower Defence
+## the Finals
+## Gem Hunter Match
 ## Gems of War
+## Global City
 ## Goose Goose Duck
 ## Grow defence
-## Guild Wars 2?
+## Guild Wars 2
 ## Gun Devil
 ## Gunforged Demo
 ## Helldivers 2
@@ -59,6 +66,7 @@
 ## Kurura Survivors: Endless Fight
 ## Left 4 Dead
 ## Left 4 Dead 2
+## Lucky HUnter Demo
 ## Magic Archery
 ## Marvel Puzzle Quest
 ## Marvel Rivals
@@ -66,12 +74,15 @@
 ## Monster Looter
 ## Mr.mine
 ## Neon Beats
+## Neon Village Demo
 ## Openttd
 ## One armed robber
 ## Palworld
+## PancitoMerge Demo
 ## Pineapple on Pizza
 ## Poco
 ## Poppy playtime
+## Power Fantasy
 ## Puzzle Quest 3
 ## Rift breaker
 ## Roxy Raccoons Pinball Panic
@@ -82,15 +93,19 @@
 ## Strongblade
 ## Stumble guys
 ## Super Raft Boat Classic
+## SPA.I.ceRocks! ?
 ## Terraria
 ## The Finals?
 ## The Perfect Tower II
 ## Tiny Survivors
 ## Transformice
+## Unbeatable [White Label]
 ## Upload Labs
-## Warhammer Vermintide
+## Warhammer Vermintide 2
+## Yu-Gi-Oh! Master Duel
 ## War Robots
 ## Zaccaria Pinball
+
 ## Zombie Defence
 
 
@@ -143,7 +158,7 @@ This game requires an extra account
 ## Star Conflict
 This game requires an extra account
 
-## Strinova?
+## Strinova
 This game requires an extra account
 
 ## Warframe
@@ -159,7 +174,7 @@ This game requires an extra account
 
 
 # Games with glitches
-## Apex ledgends
+## Apex legends
 Crashes after a few seconds, stating Wine, Proton and Steam deck are not supported
 
 ## Battle for Blood - Epic battle within 30 seconds!
@@ -168,6 +183,10 @@ Crashes after a few seconds, stating Wine, Proton and Steam deck are not support
 * press play.
 
 This game just works, until the settings button is pressed. The game progress is not saved by steam, it's saved locally (where, and howto transfer that?)
+
+## Battle Nations
+This game can't connect to its server.
+
 
 ## Bouncers
 This game shows the first frame of the intro, and then crashes
@@ -222,6 +241,16 @@ This game does not start
 This game just works, but starts in a window
 
 ## Tracmania Nations Forever
+This game doesn't start
+
+
+## Zero K
+This game crashes at the start
+
+## Vacuum Pilot
+>This game crashes when exiting after a succesfull game
+
+## Vampire Survivors
 This game doesn't start
 
 
