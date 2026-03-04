@@ -1,87 +1,215 @@
 # Steam games on Linux mint
 
-## Infinitode 2
-* open steam
-* install Infinitode 2
-* press play.
-
-This game just works.
-
-
-## Mr.mine
-* open steam
-* install Mr.mine
-* press play.
-
-This game just works.
-
-## Bioprototype
-* open steam
-* install Bioprototype
-* press play.
-
-This game just works, but the progress is not saved by steam, it's saved locally (where, and howto transfer that?)
-
-## Bomber 95
-* open steam
-* install Bomber 95
-* press play.
-
-This game just works.
-
+# Games that just work
 ## American truck Simulator demo
-* open steam
-* install American truck Simulator demo
-* press play.
-
-This game just works.
-
+## Antimatter Dimensions
+## Arena Breakout: Infinite
 ## Arrow A row
-* open steam
-* install Arrow A row
-* press play.
-
-This game just works.
+## Asphalt Legends
+## Audiomech demo
+## Bioprototype
+## Bitburner
+## BloodStrike?
+## Bloody Hell
+## Bomber 95
+## Bombergrounds: reborn
+## Bongo Cat
+## Brawlwhalla
+## The Braves?
+## Breadborn
+## Brighter Shores
+## Cat simulator
+## Cats
+## Cell to singularity reality reboot
+## Chicken invaders Universe
+## Counter Strike 2
+## Crab Game
+## Creeper World 4 Demo
+## Crossout Wolfpack
+## Cloudtop Chaos
+## Cube Escape Paradox
+## Dark Deception
+## DCS World steam edition
+## DDrace Network
+## Dead as Disco Demo
+## Dead Frontier 2
+## Deep Rock Galactic
+## Delta Force?
+## Destiny 2?
+## Destroy All Humans! Clone Carnage
+## Dota Underlords
+## Dungeon Defenders II
+## Enlisted?
+## Eternal Return
+## Eternium
+## Euro Truck Simulator 2 Demo
+## Eve Online?
+## Everything is Crab Playtest
+## Farmer Against Potatoes Idle
+## Full Manual Tower Defence
+## the Finals
+## Gem Hunter Match
+## Gems of War
+## Global City
+## Goose Goose Duck
+## Grow defence
+## Guild Wars 2
+## Gun Devil
+## Gunforged Demo
+## Helldivers 2
+## Helltaker 
+## Holocure Save the Fans!
+## Idle heroTD
+## Infinitode 2
+## Is this seat taken? Demo
+## Jwing the next puzzle game
+## Kurura Survivors: Endless Fight
+## Left 4 Dead
+## Left 4 Dead 2
+## Lucky HUnter Demo
+## Magic Archery
+## Marvel Puzzle Quest
+## Marvel Rivals
+## Monster hunter world
+## Monster Looter
+## Mr.mine
+## Neon Beats
+## Neon Village Demo
+## Openttd
+## One armed robber
+## Palworld
+## PancitoMerge Demo
+## Pineapple on Pizza
+## Poco
+## Poppy playtime
+## Power Fantasy
+## Puzzle Quest 3
+## Rift breaker
+## Roxy Raccoons Pinball Panic
+## Space Mech Pilot
+## The Spell Brigade Demo
+## Steam engine simulator
+## Stellar mess: The Princess Conundrum (Chapter 1)
+## Strongblade
+## Stumble guys
+## Super Raft Boat Classic
+## SPA.I.ceRocks! ?
+## Terraria
+## The Finals?
+## The Perfect Tower II
+## Tiny Survivors
+## Transformice
+## Unbeatable [White Label]
+## Upload Labs
+## Warhammer Vermintide 2
+## Yu-Gi-Oh! Master Duel
+## War Robots
+## Zaccaria Pinball
 
 ## Zombie Defence
+
+
+
+
+
+
+
+
+# Games that require an extra account
+## Aimlabs
+
+## Battle Nations
+
+## Bomber dudes
 * open steam
-* install Zombie Defence
+* install Bomber dudes
 * press play.
 
-This game just works.
+The game ask to login to steam, so it cannot be played.
 
-## Tiny Survivors
+## Bomb tag
+The game boots, but stops until an e-mail address is given.
+
+## Bloons Battles 2
+
+## Eve online
+
+## Faaast Penguin
 * open steam
-* install Tiny Survivors
+* install Faaast Penguin
 * press play.
 
-This game just works.
+This game works, but requires an extra registration.
 
-## Puzzle Quest 3
+## Galaxy Life
 * open steam
-* install Puzzle Quest 3
+* install Galaxy Life
 * press play.
 
-This game just works.
+This game works, but requires an extra registration.
 
-## Once Human
+## Mechwarrior Ledgens Online
 * open steam
-* install Once Human
+* install Mechwarrior Ledgens Online
 * press play.
 
-## Stellar mess: The Princess Conundrum (Chapter 1)
+This game requires an extra account
+
+## Star Conflict
+This game requires an extra account
+
+## Strinova
+This game requires an extra account
+
+## Warframe
+This game requires an extra account
+
+
+
+
+
+
+
+
+
+
+# Games with glitches
+## Apex legends
+Crashes after a few seconds, stating Wine, Proton and Steam deck are not supported
+
+## Battle for Blood - Epic battle within 30 seconds!
 * open steam
-* install Stellar mess: The Princess Conundrum (Chapter 1)
+* install Battle for Blood.
 * press play.
 
-This game just works.
+This game just works, until the settings button is pressed. The game progress is not saved by steam, it's saved locally (where, and howto transfer that?)
 
-## Goose Goose Duck
+## Battle Nations
+This game can't connect to its server.
+
+
+## Bouncers
+This game shows the first frame of the intro, and then crashes
+
+## Breadborn
+This game works, but the mouse has the wrong position on the screen.
+
+## Chroma blast
 * open steam
-* install Goose Goose Duck
+* install Chroma blast
 * press play.
 
-This game just works.
+This game yields a grey screen.
+
+## Core Keeper
+* open steam
+* install Core Keeper
+* press play.
+
+This game starts, but then gives the following error "Connection to the multiplayer backend was lost"
+
+## Enlisted
+This game generates a fatal error.
 
 ## Once Human
 * open steam
@@ -90,30 +218,52 @@ This game just works.
 
 Now the game compiles it's shaders. Next it shos a splash crean, and claims to again compiles it's shaders, and then the application doesn't respond anymore.
 
-## Crossout Wolfpack
+
+## Geometry May I swear it's a nice free game
 * open steam
-* install Crossout Wolfpack
+* install Geometry May 
 * press play.
 
-Now the game compiles it's Vulkan shaders. Next the game just works.
+This game copmplains about not finding the main executable.
 
-## Crab Game
+## Legend of numbers
 * open steam
-* install Crab Game
+* install Legend of numbers
 * press play.
 
-This game just works.
+This game does not start
 
-## Full Manual Tower Defence
+## Stargunner
 * open steam
-* install Full Manual Tower Defence
+* install Stargunner
 * press play.
 
-This game just works.
+This game just works, but starts in a window
 
-## Holocure Save the Fans!
-* open steam
-* install Save the Fans!
-* press play.
+## Tracmania Nations Forever
+This game doesn't start
 
-This game just works.
+
+## Zero K
+This game crashes at the start
+
+## Vacuum Pilot
+>This game crashes when exiting after a succesfull game
+
+## Vampire Survivors
+This game doesn't start
+
+
+# copyright
+(c) Cedric de Wijs 2025
+
+This page is licensed under the Creative Commons Attribution-NonCommercial 4.0 International license. You are free:
+* to share – to copy, distribute and transmit the work
+* to remix – to adapt the work
+
+Under the following conditions:
+
+* attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* Non commercial – You may not use the material for commercial purposes.
+
+See the file cc-by-nc-40.txt for details

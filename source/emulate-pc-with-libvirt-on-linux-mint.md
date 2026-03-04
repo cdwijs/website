@@ -1,16 +1,56 @@
-# Emulate a complete PC using Qemu/kvm on Arch Linux
+# Emulate a complete PC using Qemu/kvm on Linux Mint.
 
 ## The problem
-I want to test and document the install procedure for Linux Mint, but I don't want to reboot my Arch Linux machine.
+I want to install Windows on top of Linux Mint, so I can run that one Windows-only program.
 
 ## The solution
-Create a virtual machine on Arch Linux, that can boot from a real USB stick. This can then be used to demonstrate the install procedure for Linux Mint.
+Create a virtual machine on Linux Mint, and install a minimal version of Windows 10 on it.
 
 ## The starting point
-Arch Linux, and Xorg. Qemu and Kvm are already installed, and are capable of creating and running VM's
-
+A default installation of Linux Mint.
+A ventoy memory stick. ( See this manual:[ventoy.md](ventoy.md) )
 
 ## The procedure
+
+### Enable virtualisation support in the BIOS.
+
+### Check virtualisation compatibility
+cat /proc/cpuinfo
+Check if the flag ¨vmx¨ or ¨svm¨ are present. In this example, both are not present:
+```
+$ cat /proc/cpuinfo
+model name	: Intel(R) Core(TM)2 Duo CPU     P8600  @ 2.40GHz
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl cpuid aperfmperf pni dtes64 monitor ds_cpl smx est tm2 ssse3 cx16 xtpr pdcm sse4_1 xsave lahf_lm pti dtherm ida
+
+```
+
+Enter the BIOS, and enable the following settings:
+*
+*
+*
+Next start linux Mint again, and re-check the CPU flags:
+```
+
+
+
+```
+
+
+### Install KVM/Qemu
+Start administration -> Software manager
+Then install the following packages:
+* qemu-system
+* virt-manager
+Next start Administration -> Virtual Machine Manager
+This gives the following error:
+```
+Unable to connect to libvirt qemu:///system.
+
+Verify that the 'libvirtd' daemon is running.
+```
+
+* virt-viewer
+
 * connect a memory stick containing Ventoy
 * Start Virtual Machine Manager, and enter the root password
 * Choose File -> New Virtual Machine, Manual install, forward.
